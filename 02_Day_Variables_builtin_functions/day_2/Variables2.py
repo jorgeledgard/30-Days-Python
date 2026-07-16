@@ -74,7 +74,7 @@ _area_of_circle_ = pi * (radius ** 2)
 print(_area_of_circle_)
 
 # Excercise 12.2
-_circum_of_circle_ = 2 * radius + (2 * radius)
+_circum_of_circle_ = 2 * pi * radius
 print(_circum_of_circle_)
 
 # Excercise 12.3
