@@ -21,3 +21,17 @@ print("jargon" in "I hope this course is not full of jargon")
 
 # Excercise 15
 print("on" not in ("python" and "dragon"))
+
+# Excercise 16
+print(len("python"))
+print(float(len("python")))
+print(str(float(len("python"))))
+
+# Excercise 18
+print(7 // 3 == int(2.7))
+
+# Excercise 19
+print(type('10') == type(10))
+
+# Excercise 20
+print(int(9.8) == 10)
