@@ -30,5 +30,3 @@ print(A.symmetric_difference(B))
 # Excercise 7
 del A
 del B
-print(A)
-print(B)
